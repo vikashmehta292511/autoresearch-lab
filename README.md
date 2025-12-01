@@ -1,14 +1,15 @@
-﻿# 🔬 AutoResearch Lab 
+﻿#  AutoResearch Lab 
 
 **Multi-Agent System for Autonomous Research Paper Generation**
 
-This contains my capstone project for the Kaggle 5‑Day AI Agents Intensive Course. It demonstrates how I applied agent workflows, tools, memory and evaluation to build a practical, real‑world AI agent.
+This is my capstone project for the Kaggle 5‑Day AI Agents Intensive Course. It demonstrates how I applied agent workflows, tools, memory and evaluation to build a practical, real‑world AI agent.
 It generates professional research papers on ANY topic using AI agents + web scraping.
 
+[![Kaggle 5‑Day AI Agents Intensive](https://img.shields.io/badge/Kaggle-5%20Day%20AI%20Agents%20Intensive%20Course%20with%20Google%20orange.svg)](https://www.kaggle.com/learn-guide/5-day-agents)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Gemini API](https://img.shields.io/badge/AI-Google%20Gemini-green.svg)](https://ai.google.dev/)
-[![Kaggle 5‑Day AI Agents Intensive](https://img.shields.io/badge/Kaggle-5%20Day%20AI%20Agents%20Intensive%20Course%20with%20Google%20orange.svg)](https://www.kaggle.com/learn-guide/5-day-agents)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 ---
 
@@ -47,7 +48,7 @@ Output → research_paper.md
 
 ### Prerequisites
 - Python 3.8+
-- Google Gemini API key (FREE)
+- Google Gemini API key
 
 ### Installation
 
@@ -238,5 +239,6 @@ Thanks to the Kaggle community, mentors, and Google researchers for guidance and
 
 
 *Generate professional research papers in 60 seconds, not weeks.*
+
 
 
