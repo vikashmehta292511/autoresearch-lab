@@ -1,4 +1,6 @@
-﻿# 🔬 AutoResearch Lab **Multi-Agent System for Autonomous Research Paper Generation**
+﻿# 🔬 AutoResearch Lab 
+
+**Multi-Agent System for Autonomous Research Paper Generation**
 
 This contains my capstone project for the Kaggle 5‑Day AI Agents Intensive Course. It demonstrates how I applied agent workflows, tools, memory and evaluation to build a practical, real‑world AI agent.
 It generates professional research papers on ANY topic using AI agents + web scraping.
@@ -10,8 +12,6 @@ It generates professional research papers on ANY topic using AI agents + web scr
 <!-- Single badge linking to the Kaggle 5‑Day AI Agents Intensive course (replace URL with the course page) -->
 [![Kaggle 5‑Day AI Agents Intensive](https://img.shields.io/badge/Kaggle-5%20Day%20AI%20Agents%20Intensive-orange.svg)](https://www.kaggle.com/learn/5-day-ai-agents-intensive)
 
-<!-- Alternative compact badge (profile/course) -->
-[![Kaggle Course](https://img.shields.io/badge/Kaggle-5-Day%20AI%20Agents%20Intensive-ff69b4.svg)](https://www.kaggle.com/learn/5-day-ai-agents-intensive)
 
 ---
 
@@ -241,3 +241,4 @@ Thanks to the Kaggle community, mentors, and Google researchers for guidance and
 
 
 *Generate professional research papers in 60 seconds, not weeks.*
+
