@@ -1,6 +1,5 @@
 """
-Data Analyst Agent - Simplified (No Visualizations)
-Provides analysis context for paper writing
+Data Analyst Agent - It provides analysis context for paper writing
 """
 
 import logging

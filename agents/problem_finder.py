@@ -1,6 +1,5 @@
 """
-Problem Finder Agent - With Real Web Scraping
-Fetches papers from arXiv to find research gaps
+Problem Finder Agent - With Real Web Scraping it fetches papers from arXiv to find research gaps
 """
 
 import logging

@@ -1,6 +1,6 @@
 """
-Experiment Designer Agent - Designs experiments AND generates data
-Merged with data generation for simplicity
+Experiment Designer Agent -  it designs experiments AND generates data
+Merged with data generation
 """
 
 import logging

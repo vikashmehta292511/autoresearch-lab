@@ -1,6 +1,5 @@
 """
-AutoResearch Lab - CLI Version
-Generates research papers with all agents + web scraping
+AutoResearch Lab - Generates research papers with all agents + web scraping
 """
 
 import asyncio

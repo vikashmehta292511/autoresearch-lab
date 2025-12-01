@@ -44,7 +44,6 @@ logs/
 
 # Output (don't commit generated papers)
 output/
-*.md
 
 # Flask
 instance/

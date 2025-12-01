@@ -1,6 +1,5 @@
 """
-Hypothesis Generator Agent - Creates testable research hypotheses
-Dynamically generates hypotheses for ANY research domain
+Hypothesis Generator Agent - It creates testable research hypotheses that dynamically generates hypotheses for ANY research domain
 """
 
 import logging

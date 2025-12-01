@@ -1,6 +1,5 @@
 """
-Paper Writer Agent - Full Gemini 3000 Words
-Uses all agent outputs to generate comprehensive paper
+Paper Writer Agent -  it uses all agent outputs to generate comprehensive paper
 """
 
 import logging
