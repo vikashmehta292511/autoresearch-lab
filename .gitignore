@@ -43,7 +43,7 @@ Thumbs.db
 logs/
 
 # Output (don't commit generated papers)
-output/
+#output/
 
 # Flask
 instance/
