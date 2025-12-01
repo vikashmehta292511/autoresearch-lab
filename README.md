@@ -7,11 +7,8 @@ It generates professional research papers on ANY topic using AI agents + web scr
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Gemini API](https://img.shields.io/badge/AI-Google%20Gemini-green.svg)](https://ai.google.dev/)
+[![Kaggle 5‑Day AI Agents Intensive](https://img.shields.io/badge/Kaggle-5%20Day%20AI%20Agents%20Intensive%20Course%20with%20Google%20orange.svg)](https://www.kaggle.com/learn-guide/5-day-agents)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-<!-- Single badge linking to the Kaggle 5‑Day AI Agents Intensive course (replace URL with the course page) -->
-[![Kaggle 5‑Day AI Agents Intensive](https://img.shields.io/badge/Kaggle-5%20Day%20AI%20Agents%20Intensive-orange.svg)](https://www.kaggle.com/learn/5-day-ai-agents-intensive)
-
 
 ---
 
@@ -241,4 +238,5 @@ Thanks to the Kaggle community, mentors, and Google researchers for guidance and
 
 
 *Generate professional research papers in 60 seconds, not weeks.*
+
 
