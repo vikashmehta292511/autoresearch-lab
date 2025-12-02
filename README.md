@@ -37,7 +37,7 @@ User Input (Domain)
         ↓
 [Data Analyst Agent]
         ↓
-[Paper Writer Agent] ← Uses Gemini AI (3000 words)
+[Paper Writer Agent] ← Uses Gemini AI
         ↓
 Output → research_paper.md
 ```
@@ -90,7 +90,7 @@ Enter research domain: your research domain
 
 ```
 output/research_20241201_143022/
-├── research_paper.md          # 2500-3000 word paper
+├── research_paper.md          # paper
 ├── metadata.json             # Run information
 └── pipeline_history.json     # Complete agent outputs
 ```
@@ -143,14 +143,14 @@ GEMINI_API_KEY=your-gemini-api-key-here
 
 ### Customize Paper Length
 
-Edit `agents/paper_writer.py` line ~75:
+Edit `agents/paper_writer.py` :
 ```python
 "Length: 3500-4000 words"  # Change as needed
 ```
 
 ### Customize Scraping
 
-Edit `agents/problem_finder.py` line ~30:
+Edit `agents/problem_finder.py` :
 ```python
 max_results=20  # Fetch more papers
 ```
@@ -159,7 +159,7 @@ max_results=20  # Fetch more papers
 
 ##  Cost
 
-**Completely FREE!**
+**FREE!**
 
 - Gemini 2.5 Flash: 
 - arXiv API: FREE
@@ -212,7 +212,7 @@ autoresearch-lab/
 
 ##  Example Domains
 
-Try these domains:
+You can try these domains:
 - Quantum Machine Learning
 - Climate Change Mitigation Strategies
 - CRISPR Gene Editing Ethics
@@ -230,7 +230,7 @@ Try these domains:
 - **arXiv** - Research papers
 - **Python community** - Libraries and tools
 
-Built as the Capstone Project for the 5‑Day AI Agents Intensive Course with Google (Kaggle‑Mentor3).
+Built as the Capstone Project for the 5‑Day AI Agents Intensive Course with Google (Kaggle‑Mentors).
 Thanks to the Kaggle community, mentors, and Google researchers for guidance and resources.
 
 ---
