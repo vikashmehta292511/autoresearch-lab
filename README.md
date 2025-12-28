@@ -10,7 +10,6 @@ It generates professional research papers on ANY topic using AI agents + web scr
 [![Gemini API](https://img.shields.io/badge/AI-Google%20Gemini-green.svg)](https://ai.google.dev/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-
 ---
 
 ##  Features
@@ -19,7 +18,7 @@ It generates professional research papers on ANY topic using AI agents + web scr
 -  **Web Scraping** from arXiv for real papers
 -  **2500-3000 Words** publication-ready papers
 -  **Complete Pipeline** from problem → hypothesis → methodology → analysis → paper
--  **FREE** uses Google Gemini API key
+-  **FREE** uses Google Gemini API key (Note: *Here, I have used gemini base model as it's free, for better results we can also use paid openAI or any other LLM models API key.*)
 -  **Saves to Repository** in `output/` folder
 
 ---
@@ -239,6 +238,7 @@ Thanks to the Kaggle community, mentors, and Google researchers for guidance and
 
 
 *Generate professional research papers in 60 seconds, not weeks.*
+
 
 
 
