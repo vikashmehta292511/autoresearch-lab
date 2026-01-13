@@ -82,18 +82,6 @@ python main.py
 ```
 Enter research domain: your research domain
 ```
-
----
-
-##  Output Structure
-
-```
-output/research_20241201_143022/
-├── research_paper.md          # paper
-├── metadata.json             # Run information
-└── pipeline_history.json     # Complete agent outputs
-```
-
 ---
 
 ##  What Each Agent Does
@@ -178,37 +166,6 @@ max_results=20  # Fetch more papers
 
 ---
 
-##  Project Structure
-
-```
-autoresearch-lab/
-├── main.py                    # Entry point
-├── requirements.txt           # Dependencies
-├── .env                      # API keys
-├── README.md                 # This file
-│
-├── agents/
-│   ├── __init__.py
-│   ├── problem_finder.py     # With arXiv scraping
-│   ├── hypothesis_generator.py
-│   ├── experiment_designer.py
-│   ├── data_analyst.py
-│   └── paper_writer.py       # Gemini 3000 words
-│
-├── utils/
-│   ├── __init__.py
-│   ├── memory_store.py       # Context management
-│   └── logger.py             # Logging
-│
-└── output/                    # Generated papers
-    └── research_YYYYMMDD_HHMMSS/
-        ├── research_paper.md
-        ├── metadata.json
-        └── pipeline_history.json
-```
-
----
-
 ##  Example Domains
 
 You can try these domains:
@@ -234,10 +191,11 @@ Thanks to the Kaggle community, mentors, and Google researchers for guidance and
 
 ---
 
-**Made for researchers and students worldwide**
+**Made for researchers and students**
 
 
 *Generate professional research papers in 60 seconds, not weeks.*
+
 
 
 
